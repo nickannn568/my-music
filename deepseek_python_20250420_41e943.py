@@ -5,7 +5,7 @@ import subprocess
 import os
 
 # تنظیمات ربات
-TOKEN = "توکن_ربات_خود_را_اینجا_قرار_دهید"
+TOKEN = "7911886142:AAGgJEDeBuUofJ73JRwoKqOzTRnf2Cc971U"
 translator = Translator()
 
 def start(update: Update, context: CallbackContext) -> None:
